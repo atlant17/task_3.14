@@ -9,4 +9,4 @@ This Privacy Statement describes how we process personal data for our own purpos
 
 “Personal data” is information that identifies, or can reasonably be linked directly or indirectly to, an identifiable person. Personal data does not include information that is anonymous, de-identified, or aggregated, as those terms may be defined under applicable law. For purposes of this Privacy Statement, “personal data” and “personal information” have the same meaning and are used interchangeably. 
 
-вернуться на [главную страницу](./project.md)
+вернуться на [главную страницу](./readme.md)

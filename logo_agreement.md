@@ -16,4 +16,4 @@ Please place the Link-to-Autodesk Logo against a high-contrast background so vis
 
 You may not alter the Link-to-Autodesk Logo in any manner, including size, proportions, colors, elements, and so forth, or animate, morph, or otherwise distort its perspective or appearance.
 
-вернуться на [главную страницу](./project.md)
+вернуться на [главную страницу](./readme.md)
