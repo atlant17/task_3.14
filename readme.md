@@ -1,4 +1,4 @@
-# Инструкция по работе с __Autodesk__#
+# Инструкция по работе с __Autodesk__
 
 ![](./img/autodesk_logo.png)
 ---
