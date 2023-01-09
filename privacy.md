@@ -8,3 +8,5 @@ We may display supplemental privacy notices on occasion, such as when we believe
 This Privacy Statement describes how we process personal data for our own purposes. We also process personal data on behalf of our customers subject to a written contract. We do not control the data processing or protection practices of our customers, which may differ from those set out in this Privacy Statement.
 
 “Personal data” is information that identifies, or can reasonably be linked directly or indirectly to, an identifiable person. Personal data does not include information that is anonymous, de-identified, or aggregated, as those terms may be defined under applicable law. For purposes of this Privacy Statement, “personal data” and “personal information” have the same meaning and are used interchangeably. 
+
+вернуться на [главную страницу](./project.md)
